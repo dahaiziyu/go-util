@@ -2,6 +2,7 @@ package go_util
 
 import "fmt"
 
-func util()  {
+//方法大写
+func Util()  {
 	fmt.Print("这是util方法")
 }
